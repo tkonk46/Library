@@ -1,0 +1,6 @@
+c:\users\tessa\onedrive\documents\visual studio 2015\Projects\Library\Library\bin\Debug\Library.exe.config
+c:\users\tessa\onedrive\documents\visual studio 2015\Projects\Library\Library\bin\Debug\Library.exe
+c:\users\tessa\onedrive\documents\visual studio 2015\Projects\Library\Library\bin\Debug\Library.pdb
+c:\users\tessa\onedrive\documents\visual studio 2015\Projects\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+c:\users\tessa\onedrive\documents\visual studio 2015\Projects\Library\Library\obj\Debug\Library.exe
+c:\users\tessa\onedrive\documents\visual studio 2015\Projects\Library\Library\obj\Debug\Library.pdb
